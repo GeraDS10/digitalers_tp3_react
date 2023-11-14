@@ -1,0 +1,11 @@
+.dolar-blue{
+    display: flex;
+    background-color: #0375B2;
+    justify-content: center;
+    color: white;
+}
+
+.dolar-blue p{
+    padding: 0% 2% 0% 2%;
+    color: white;
+}
