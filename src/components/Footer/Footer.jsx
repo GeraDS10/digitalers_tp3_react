@@ -4,7 +4,7 @@ import './style.css';
 function Footer(){
     return (
         <footer>
-          <p>© 2023 Car-Store. Todos los derechos reservados.</p>
+          <p>© 2023 Beer-Store. Todos los derechos reservados.</p>
         </footer>
       );
 }

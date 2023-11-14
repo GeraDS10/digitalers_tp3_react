@@ -18,7 +18,7 @@ function Card({ product,addToCart }){
       <p className="price">${product.price}</p>
       {/* Agrega más detalles del producto según sea necesario */}
       <button onClick={handleAddToCart}>Agregar</button>
-      <Link to="/cart" className="cartButton">View Cart</Link>
+      <Link to="/cart" className="cartButton">Ver Carrito</Link>
     </div>
       );
 }
